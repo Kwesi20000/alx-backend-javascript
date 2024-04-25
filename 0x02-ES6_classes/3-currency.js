@@ -1,4 +1,4 @@
-// 3-currency.js 
+// 3-currency.js
 
 export default class Currency {
   constructor(code, name) {
