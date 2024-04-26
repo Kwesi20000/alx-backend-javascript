@@ -1,4 +1,4 @@
-8-hbtn_class.js
+// 8-hbtn_class.js
 
 export default class HolbertonClass {
   constructor(size, location) {
